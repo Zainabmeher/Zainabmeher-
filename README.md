@@ -1,5 +1,5 @@
 # Zainabmeher- 
-# Hi, I'm [Your Name] 👋
+ Hi, I'm Zainab
 
 Data Analyst | MBA in Business Analytics
 
