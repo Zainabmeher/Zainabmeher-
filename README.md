@@ -8,14 +8,21 @@ https://www.linkedin.com/in/zainabmeherr/
 PORTFOLIO PROJECTS:
 
 1.Bakery Sales Analysis	
+
 SQL · Python · Power BI
+
 End-to-end sales pipeline — product performance, basket analysis, customer behaviour
 
+
 2.Hospital Budget Forecasting	
+
 SQL · Python · Power BI	2025 
+
 expenditure forecast across ICU, Radiology & General Ward with variance analysis
 
+
 WHAT I DO:
+
 -Build end-to-end analytics pipelines from raw data to executive dashboards
 
 -Write SQL for data extraction, aggregation, and window functions
