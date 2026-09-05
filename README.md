@@ -5,7 +5,7 @@ Hyderabad, India
 
 https://www.linkedin.com/in/zainabmeherr/
 
-*PORTFOLIO PROJECTS:
+#PORTFOLIO PROJECTS:
 
 1.Bakery Sales Analysis	
 
@@ -21,7 +21,7 @@ SQL · Python · Power BI	2025
 expenditure forecast across ICU, Radiology & General Ward with variance analysis
 
 
-*WHAT I DO:
+#WHAT I DO:
 
 -Build end-to-end analytics pipelines from raw data to executive dashboards
 
@@ -33,7 +33,7 @@ expenditure forecast across ICU, Radiology & General Ward with variance analysis
 
 -Translate data findings into actionable business recommendations 
 
-*CONTACT:
+#CONTACT:
 
 zainabmeher05@gmail.com
 
