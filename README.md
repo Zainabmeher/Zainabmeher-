@@ -1,5 +1,5 @@
 # Zainab Meher- 
-Data Analyst | SQL · Python · Power BI | MBA Business Analytics | Open to Remote
+Data Analyst | SQL · Python · Power BI · AI-Augmented Analysis | MBA Business Analytics | Open to Remote
 
 Hyderabad, India
 
@@ -32,6 +32,8 @@ expenditure forecast across ICU, Radiology & General Ward with variance analysis
 -Design Power BI dashboards with DAX measures, KPI cards, and business recommendations
 
 -Translate data findings into actionable business recommendations 
+
+-Active integration of AI tools into the analytics workflow which helps in accelerating insight generation to structuring recommendations and validating findings
 
 #CONTACT:
 
