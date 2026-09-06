@@ -1,4 +1,4 @@
-# Zainabmeher- 
+# Zainab Meher- 
 Data Analyst | SQL · Python · Power BI | MBA Business Analytics | Open to Remote
 
 Hyderabad, India
